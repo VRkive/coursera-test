@@ -27,7 +27,7 @@ color: #61122F;
 
 
 .container {
-	background-color: #4c4c4d;
+    background-color: #4c4c4d;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -43,7 +43,6 @@ h2{
 
 #collapsable-nav ul li a {
 	color: #61122F;
-	
 }
 
 .navbar-brand{
